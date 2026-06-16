@@ -2,6 +2,9 @@
 Welcome to my github of fast Nuces 3rd Semester Bscs with all necessary resources and past papers.
 - ⭐ If this repository helped you, please give it a star!
 
+- Link To Other Semesters :
+ - 📙 [2nd Semester KHI](https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main)
+ - 
   
 ## 📚 Semester 3
 
