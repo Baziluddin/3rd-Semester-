@@ -28,16 +28,20 @@ Welcome to my github of fast Nuces 3rd Semester Bscs with all necessary resource
 
 ----
 
-## Recommend Channels For Subjects are :
+##  🎥 Recommend Channels For Subjects are :
 
-1). Discrete Structures :
-    - Nesco Academy.
+1). Discrete Structures 
 
-2). Linear Algebra :
-    - Professor Dave.
+- Nesco Academy.
+  
 
-3). Data Structures :
-    - Simple Snippets.
+2). Linear Algebra 
+
+- Professor Dave.
+
+3). Data Structures 
+
+- Simple Snippets.
 
 ----
 
