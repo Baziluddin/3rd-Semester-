@@ -2,10 +2,15 @@
 Welcome to my github of fast Nuces 3rd Semester Bscs with all necessary resources and past papers.
 - ⭐ If this repository helped you, please give it a star!
 
+----
+
 - Link To Other Semesters :
  - 📙 [1st Semester KHI](https://github.com/Baziluddin/Fast-karachi-SEMESTER-1/blob/main/README.md)
  - 📙 [2nd Semester KHI](https://github.com/Baziluddin/Fast-Karachi-Semester-2/tree/main)
-  
+-  📙 [4th Semester KHI](https://github.com/Baziluddin/FAST-KARACHI-SEMESTER---4)
+
+----
+
 ## 📚 Semester 3
 
 | # | Code | Course Name | CrdHrs |
@@ -19,27 +24,35 @@ Welcome to my github of fast Nuces 3rd Semester Bscs with all necessary resource
 | 7 | SSX21 | [Psychology](./Psychology) | 2 |
 | 8 | CS3005 | [Theory Of Automata](./Theory%20Of%20Automata) | 3 |
 
-Recommend Channels For Subjects are :
+----
 
-1). Discrete Structures
-    -Nesco Academy.
+## Recommend Channels For Subjects are :
 
+1). Discrete Structures :
+    - Nesco Academy.
+
+2). Linear Algebra :
+    - Professor Dave.
+
+3). Data Structures :
+    - Simple Snippets.
+
+----
 
 # 🔗 Useful Websites
 
 - Wonder.site – FAST resources
-- Quizlet – Study flashcards
 - GeeksforGeeks – Programming
 - W3Schools – Web Development
 - Overleaf – LaTeX reports
 - Canva – Presentations
 
+----
+
 # 🛠 Useful Tools
 
 - ChatGPT
-- Notion
 - Visual Studio Code
 - GitHub
-- Draw.io
 - Canva
 
